@@ -21,7 +21,7 @@ function Herosection() {
           </button>
         </div>
         <div>
-          <img src="src/component/images/world.jpg" />
+          <img src=".\src\component\images\world.jpg" />
         </div>
       </div>
     </div>
